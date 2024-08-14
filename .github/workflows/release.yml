@@ -9,7 +9,7 @@ name: Elasticsearch Release
 
 on:
   push:
-    branches:
+    tags:
       - "*"
 
 jobs:
